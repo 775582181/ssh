@@ -1,2 +1,2 @@
-# ssh Struts2 Spring SpringMVC Hibernate MyBatis
+#Struts2 Spring SpringMVC Hibernate MyBatis
 web
